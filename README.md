@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @horahh
 - 👀 I’m interested in  SW and HW
-- 🌱 I’m currently learning Rust, ML and automation.
+- 🌱 I’m currently learning Rust, ML and Automation.
 - 💞️ I’m looking to collaborate on high performance computing, SW and HW Architecture.
 - 📫 How to reach me 
 
