@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @horahh
+- 👋 Hi, I’m Horacio live in Costa Rica.
 - 👀 I’m interested in SW and HW codesign and firmware.
 - 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on high performance computing, SW and HW Architecture.
